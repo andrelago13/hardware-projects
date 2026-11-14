@@ -1,0 +1,1 @@
+This is a repository that holds multiple hardware projects I'm working on. Each top-level older under `/projects` contains a different project, whose folder name is the project name and inside there's always a `README.md` with its goal.
